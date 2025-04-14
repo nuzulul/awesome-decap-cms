@@ -6,6 +6,8 @@ A Git-based CMS for Static Site Generators.
 - [Official](#official)
 - [Discussion](#discussion)
 - [OAuth Clients](#oauth-clients)
+- [Git Gateway](#git-gateway)
+- [User Management](#user-management)
 
 ## Official
 
@@ -19,6 +21,7 @@ A Git-based CMS for Static Site Generators.
 - [issues](https://github.com/decaporg/decap-cms/issues) - Decap CMS existing issues.
 
 ## OAuth Clients
+
 - [netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider) - OAuth client implementation in NodeJS.
 - [netlify-cms-oauth-provider-go](https://github.com/igk1972/netlify-cms-oauth-provider-go) - OAuth client implementation in Go.
 - [
@@ -39,3 +42,12 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [decap-cms-oauth-firebase](https://github.com/BTx123/decap-cms-oauth-firebase) - OAuth client implementation in Firebase V2 Cloud Function.
 - [netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages) - OAuth client implementation in Cloudflare Pages.
 - [decap-cms-google-apps-script](https://github.com/nuzulul/decap-cms-google-apps-script) - OAuth client implementation in Google Apps Script.
+
+## Git Gateway
+
+- [git-gateway](https://github.com/netlify/git-gateway) - Git gateway implementation in Go.
+- [git-gateway-node](https://github.com/pspizzo/git-gateway-node) - Git gateway implementation in Serverless AWS Lambda (NodeJS).
+
+## User Management
+- [gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens.
