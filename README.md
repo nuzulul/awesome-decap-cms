@@ -5,6 +5,7 @@ A Git-based CMS for Static Site Generators.
 
 - [Official](#official)
 - [Discussion](#discussion)
+- [Self Hosted](#self-hosted)
 - [OAuth Clients](#oauth-clients)
 - [Git Gateway](#git-gateway)
 - [User Management](#user-management)
@@ -23,6 +24,14 @@ A Git-based CMS for Static Site Generators.
 - [github-issues](https://github.com/decaporg/decap-cms/issues) - Decap CMS existing issues.
 - [discord](https://decapcms.org/chat) - Decap CMS on Discord.
 - [stackoverflow](https://stackoverflow.com/questions/tagged/decap-cms) - Decap CMS on Stackoverflow.
+
+## Self Hosted
+
+- [Deploying Hugo Sites on Cloudflare Pages with Decap CMS and GitHub Backend](https://www.abhishek-tiwari.com/deploying-hugo-sites-on-cloudflare-pages-with-decap-cms-and-github-backend/)
+- [Easy-to-use Docker image to self-host Decap CMS (formerly Netlify CMS)](https://github.com/itsmejoeeey/docker-decap-cms-standalone)
+- [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
+- [DecapCMS and GitLab integration without Netlify](https://predragtasevski.com/blog/decapcms-and-gitlab-integration-without-netlify)
+- [My Decap CMS setup with 11ty hosted on Cloudflare Pages](https://www.patrickgrey.co.uk/notes/2024-09-21-my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages/)
 
 ## OAuth Clients
 
