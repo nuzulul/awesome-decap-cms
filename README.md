@@ -17,6 +17,7 @@ A Git-based CMS for Static Site Generators.
 - [Website](https://decapcms.org/) - Official Decap CMS website.
 - [Documentation](https://decapcms.org/docs/intro/) - Decap CMS documentation.
 - [Source](https://github.com/decaporg/decap-cms) - Decap CMS source repository.
+- [Demo](https://demo.decapcms.org/) - Decap CMS live demo.
 
 ## Discussion
 
@@ -42,6 +43,8 @@ A Git-based CMS for Static Site Generators.
 - [decapcms-oauth2](https://github.com/alukovenko/decapcms-oauth2) - OAuth client implementation in Go.
 - [decap-cms-oauth-firebase](https://github.com/BTx123/decap-cms-oauth-firebase) - OAuth client implementation in Firebase V2 Cloud Function.
 - [astro-decap-cms-oauth](https://github.com/dorukgezici/astro-decap-cms-oauth) - OAuth client implementation for Astro project.
+- [decap-proxy](https://github.com/sterlingwes/decap-proxy) - OAuth client implementation in Cloudflare Worker.
+- [decap-cms-oauth-provider](https://github.com/openaq/decap-cms-oauth-provider) - OAuth client implementation in Serverless AWS Lambda (Python).
 - [netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages) - OAuth client implementation in Cloudflare Pages.
 - [netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider) - OAuth client implementation in NodeJS.
 - [netlify-cms-oauth-provider-go](https://github.com/igk1972/netlify-cms-oauth-provider-go) - OAuth client implementation in Go.
@@ -78,3 +81,7 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [jekyll-decap-cms](https://github.com/decaporg/jekyll-decap-cms) - A starter template for Jekyll + Decap CMS with Netlify Identity.
 - [one-click-hugo-cms](https://github.com/decaporg/one-click-hugo-cms) - A starter template for Hugo + Decap CMS with Netlify Identity.
 - [gatsby-starter-decap-cms](https://github.com/decaporg/gatsby-starter-decap-cms) - A starter template for Gatsby + Decap CMS.
+- [eleventy-netlify-boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A template for building a blog with the Eleventy static site generator and Decap CMS.
+- [gatsby-starter-henlo](https://github.com/clean-commit/gatsby-starter-henlo) - The most advanced starter for Gatsby & Decap CMS.
+- [hugolify-template](https://github.com/Hugolify/hugolify-template) - Framework Hugo with Bootstrap and Decap CMS.
+- [nextjs-blog-tailwind-starter](https://github.com/ositaka/nextjs-blog-tailwind-starter) - Next.js 14 Blog Starter with Tailwind CSS, Contentlayer, & Decap CMS.
