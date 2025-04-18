@@ -106,6 +106,9 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 
 ## Project
 
+- [linky](https://github.com/paulroub/linky) - A linktree-esque theme, built for static hosting and easy maintenance with Decap CMS.
+- [MailTape](https://github.com/MailTape/MailTape) - Feed your inspiration with music, every Sunday morning. // Built with Astro and edited with DecapCMS.
+- [saga11](https://github.com/mortendk/saga11) - A Static Website builder powered by 11ty and netlifycms, but at the end its just html, css & js.
 - [cstate](https://github.com/cstate/cstate) - Open source static (serverless) status page with preloaded CMS.
 - [devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS.
 - [storefront](https://github.com/ecomplus/storefront) - Modern and high performant headless eCommerce Storefront editable with CMS.
