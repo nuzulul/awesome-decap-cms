@@ -29,6 +29,7 @@ Open Source Git-based CMS for Static Site Generators.
 
 ## Self Hosted
 
+- [Jekyll + Decap CMS hosted on Github Pages](https://github.com/nuzulul/jekyll-decap-cms-github-pages)
 - [Deploying Hugo Sites on Cloudflare Pages with Decap CMS and GitHub Backend](https://www.abhishek-tiwari.com/deploying-hugo-sites-on-cloudflare-pages-with-decap-cms-and-github-backend/)
 - [Easy-to-use Docker image to self-host Decap CMS (formerly Netlify CMS)](https://github.com/itsmejoeeey/docker-decap-cms-standalone)
 - [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
