@@ -10,8 +10,10 @@ Open Source Git-based CMS for Static Site Generators.
 - [Multiuser Authentication](#multiuser-authentication)
 - [Git Gateway](#git-gateway)
 - [Custom Widget](#custom-widgets)
+- [Hack](#hack)
 - [Starter Template](#starter-template)
 - [Project](#project)
+- [Miscellaneous](#miscellaneous)
 
 ## Official
 
@@ -83,7 +85,6 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [netlify-cms-widget-colorpicker](https://github.com/felixboet/netlify-cms-widget-colorpicker) - A color picker widget for Netlify CMS, supports HEX color codes, RGBA, color names and custom values.
 - [netlify-cms-widget-pathname](https://github.com/karolis-sh/netlify-cms-widget-pathname) - Pathname input widget for Netlify CMS.
 - [netlify-cms-widget-create-select](https://github.com/Andful/netlify-cms-widget-create-select) - A simple create select widget for netlify-cms which allows creating entries. The create select widget's entries are up to date to the last website build.
-- [netlify-cms-dark-mode](https://github.com/Nats-ji/netlify-cms-dark-mode) - Netlify CMS Dark Mode! A simple CSS file to turn on dark mode for your Netlify CMS.
 - [netlify-cms-widget-simplemde](https://github.com/iamspark1e/netlify-cms-widget-simplemde) - A replacement of original Netlify CMS Markdown widget, using SimpleMDE (or its forks).
 - [netlify-cms-widget-geojson](https://github.com/jfrankl/netlify-cms-widget-geojson) - A Netlify CMS widget that allows drawing points, lines, and polygons.
 - [netlify-cms-responsive-block-widget](https://github.com/BitBravo/netlify-cms-responsive-block-widget) - Netlify CMS Iframe Widget.
@@ -91,6 +92,11 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [netlify-cms-markdown-columns-widget](https://github.com/Ys-sudo/netlify-cms-markdown-columns-widget) - Extends the netlify-cms-widget-markdown with 3 additional columns modules: 2 columns, 3 columns and 4 columns layouts.
 - [netlify-cms-widget-external-image](https://github.com/mvolfik/netlify-cms-widget-external-image) - Image widget for Netlify CMS: upload image to an external server and store just an identifier.
 - [netlify-cms-widgets](https://github.com/marcomontalbano/netlify-cms-widgets) - A collection of Netlify CMS widgets.
+
+## Hack
+
+- [responsive-decap](https://github.com/hithismani/responsive-decap) - Mobile responsive CSS adaptation for Decap CMS/Netlify CMS.
+- [netlify-cms-dark-mode](https://github.com/Nats-ji/netlify-cms-dark-mode) - Netlify CMS Dark Mode! A simple CSS file to turn on dark mode for your Netlify CMS.
 
 ## Starter Template
 
@@ -101,6 +107,8 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [gatsby-starter-henlo](https://github.com/clean-commit/gatsby-starter-henlo) - The most advanced starter for Gatsby & Decap CMS.
 - [hugolify-template](https://github.com/Hugolify/hugolify-template) - Framework Hugo with Bootstrap and Decap CMS.
 - [nextjs-blog-tailwind-starter](https://github.com/ositaka/nextjs-blog-tailwind-starter) - Next.js 14 Blog Starter with Tailwind CSS, Contentlayer, & Decap CMS.
+- [11ty-decap-cms-data-list-starter](https://github.com/clottman/11ty-decap-cms-data-list-starter) - A template for a site that uses Decap CMS to build a list of stuff you want to display on the site.
+- [astro-decap-cloudflare-starter](https://github.com/jshuntley/astro-decap-cloudflare-starter) - A starter template and guide to get up and running with Astro and Decap CMS hosted on Cloudflare Pages.
 - [gatsby-starter-foundation](https://github.com/stackrole/gatsby-starter-foundation) - A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS.
 - [Eleventy-Starter-Boilerplate](https://github.com/ixartz/Eleventy-Starter-Boilerplate) - Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. 
 
@@ -112,7 +120,15 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [cstate](https://github.com/cstate/cstate) - Open source static (serverless) status page with preloaded CMS.
 - [devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS.
 - [storefront](https://github.com/ecomplus/storefront) - Modern and high performant headless eCommerce Storefront editable with CMS.
-- [netlify_cms_config](https://github.com/oscarotero/netlify_cms_config) - Netlify CMS config generator.
 - [11tyGram](https://github.com/ItaiAxelrad/11tyGram) - A static site for your instagram data.
 - [dms-ecommerce](https://github.com/luizfverissimo/dms-ecommerce) - Darwin Music Store, E-commerce created with React.js, Next.js, Tailwind CSS and Netilify CMS.
 - [gifulator-legacy](https://github.com/pbredenberg/gifulator-legacy) - Gifulator is your own personal animated gif library.
+
+## Miscellaneous
+
+- [astro-decap-cms](https://github.com/miseya/astro-decap-cms) - Integration to add Decap CMS’s admin dashboard to any Astro project with faster build process using CDN.
+- [vite-plugin-decap-cms](https://github.com/ghostrider-05/vite-plugin-decap-cms) - Simplify the configuration of Decap cms for Vite projects.
+- [minimal-decap-cms](https://github.com/walmello/minimal-decap-cms) - Using Netlify as a Headless CMS for Webstudio.
+- [decap-cms](https://github.com/hbstack/decap-cms) - Decap CMS module for HB Framework.
+- [decap-cms-alter](https://github.com/olegfedak/decap-cms-alter) - This package from my forked Decap repository maintains the same functionality but features a different theme.
+- [netlify_cms_config](https://github.com/oscarotero/netlify_cms_config) - Netlify CMS config generator.
