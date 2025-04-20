@@ -29,12 +29,11 @@ Open Source Git-based CMS for Static Site Generators.
 
 ## Self Hosted
 
-- [Jekyll + Decap CMS hosted on Github Pages](https://github.com/nuzulul/jekyll-decap-cms-github-pages)
-- [Deploying Hugo Sites on Cloudflare Pages with Decap CMS and GitHub Backend](https://www.abhishek-tiwari.com/deploying-hugo-sites-on-cloudflare-pages-with-decap-cms-and-github-backend/)
-- [Easy-to-use Docker image to self-host Decap CMS (formerly Netlify CMS)](https://github.com/itsmejoeeey/docker-decap-cms-standalone)
-- [A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify](https://www.njfamirm.ir/en/blog/self-hosting-decap-cms/)
-- [DecapCMS and GitLab integration without Netlify](https://predragtasevski.com/blog/decapcms-and-gitlab-integration-without-netlify)
-- [My Decap CMS setup with 11ty hosted on Cloudflare Pages](https://www.patrickgrey.co.uk/notes/2024-09-21-my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages/)
+- [jekyll-decap-cms-github-pages](https://github.com/nuzulul/jekyll-decap-cms-github-pages) - Jekyll + Decap CMS hosted on Github Pages.
+- [docker-decap-cms-standalone](https://github.com/itsmejoeeey/docker-decap-cms-standalone) - Easy-to-use Docker image to self-host Decap CMS (formerly Netlify CMS).
+- [decapcms-and-gitlab-integration-without-netlify](https://github.com/stepcellwolf/pt-nextjs-blog/blob/main/data/blog/decapcms-and-gitlab-integration-without-netlify.mdx) - DecapCMS and GitLab integration without Netlify.
+- [self-hosting-decap-cms](https://github.com/njfamirm/blog/blob/main/site/en/blog/self-hosting-decap-cms.md) - A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify.
+- [my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages](https://github.com/patrickgrey/website/blob/main/website-source/notes/2024-09-21-my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages.md) - My Decap CMS setup with 11ty hosted on Cloudflare Pages.
 
 ## OAuth Clients
 
