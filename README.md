@@ -7,7 +7,6 @@ Open Source Git-based CMS for Static Site Generators.
 - [Discussion](#discussion)
 - [Self Hosted](#self-hosted)
 - [OAuth Client](#oauth-client)
-- [Multiuser Authentication](#multiuser-authentication)
 - [Git Gateway](#git-gateway)
 - [Custom Widget](#custom-widget)
 - [Hack](#hack)
@@ -66,10 +65,6 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [serverless-cms-azure](https://github.com/deepbass/serverless-cms-azure) - OAuth client implementation in Azure Functions (NodeJS).
 - [netlify-cms-oauth](https://github.com/ublabs/netlify-cms-oauth) - OAuth client implementation in Vercel Serverless Function (NodeJS).
 - [netlifycms-oauth-server](https://github.com/hatappo/netlifycms-oauth-server) - OAuth client implementation in Firebase Cloud Function (Clojurescript).
-
-## Multiuser Authentication
-- [gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
-- [auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens.
 
 ## Git Gateway
 
