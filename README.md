@@ -14,6 +14,7 @@ Open Source Git-based CMS for Static Site Generators.
 - [Starter Template](#starter-template)
 - [Project](#project)
 - [Miscellaneous](#miscellaneous)
+- [Showcase](#showcase)
 
 ## Official
 
@@ -122,10 +123,11 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 
 - [linky](https://github.com/paulroub/linky) - A linktree-esque theme, built for static hosting and easy maintenance with Decap CMS.
 - [MailTape](https://github.com/MailTape/MailTape) - Feed your inspiration with music, every Sunday morning. // Built with Astro and edited with DecapCMS.
-- [astro-portfolio](https://github.com/fazleyrabby/astro-portfolio) - Simple Portfolio+Blog with Astro and Decap CMS for content management.
 - [hugo-cinema](https://github.com/Dtime21/hugo-cinema) - Hugo + Decap CMS for Cinema Site.
 - [saga11](https://github.com/mortendk/saga11) - A Static Website builder powered by 11ty and netlifycms, but at the end its just html, css & js.
 - [krauss-cms](https://github.com/chlzslvdr/krauss-cms) - Sample Portfolio Website made with Decap CMS.
+- [awyerify-www](https://github.com/sebousan/lawyerify-www) - Solution to create your law firm website.
+- [cv](https://github.com/marcomontalbano/cv) - It's just a PDF but with some cool behind the scenes.
 - [cstate](https://github.com/cstate/cstate) - Open source static (serverless) status page with preloaded CMS.
 - [devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS.
 - [storefront](https://github.com/ecomplus/storefront) - Modern and high performant headless eCommerce Storefront editable with CMS.
@@ -143,3 +145,24 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [decap-cms](https://github.com/hbstack/decap-cms) - Decap CMS module for HB Framework.
 - [decap-cms-alter](https://github.com/olegfedak/decap-cms-alter) - This package from my forked Decap repository maintains the same functionality but features a different theme.
 - [netlify_cms_config](https://github.com/oscarotero/netlify_cms_config) - Netlify CMS config generator.
+
+## Showcase
+
+- [theleakycauldronblog](https://github.com/v4iv/theleakycauldronblog) - Personal blog powered by Astro & Decap CMS.
+- [astro-portfolio](https://github.com/aleksa-codes/astro-portfolio) - Personal portfolio and blog built with Astro, Tailwind CSS and Decap CMS.
+- [astro-portfolio](https://github.com/fazleyrabby/astro-portfolio) - Simple Portfolio+Blog with Astro and Decap CMS for content management.
+- [chrislb](https://github.com/davidlj95/chrislb) - Portfolio website for Christian Lazaro, fashion designer.
+- [sixfolio](https://github.com/6ixfalls/sixfolio) - Personal portfolio website with basic pages.
+- [unpadforstrays.or.id](https://github.com/unpadforstrays-dev/unpadforstrays.or.id) - Hosted on Vercel with React-based CMS added for easier content management.
+- [wildgracevideo-website](https://github.com/wildgracevideo/wildgracevideo-website) - Website for Wild Grace Videography.
+- [asdotdev](https://github.com/asdotdev/asdotdev) - This repository contains my static portfolio website.
+- [BTx123.github.io](https://github.com/BTx123/BTx123.github.io) - My personal website.
+- [fana-portfolio](https://github.com/ezzylan/fana-portfolio) - ersonal Portfolio Website made for Farhanah Izzati using the Astrofy template by Manuel Ernesto.
+- [jazz-musician-website](https://github.com/owengretzinger/jazz-musician-website) - Personal website for a professional jazz musician.
+- [ miriamlasserre](https://github.com/sebousan/miriamlasserre) - Miriam Lasserre’s website.
+- [anasfanani.github.io](https://github.com/anasfanani/anasfanani.github.io) - A source code Hugo blog using hugo-theme-stack & Decap CMS.
+- [rwpoa-v2](https://github.com/alexjharrison/rwpoa-v2) - Rolling Woods Property Owners Association Website rebuild with git hosted CMS & Astro SSG.
+- [thegoodland](https://github.com/PatrickMcGrath29/thegoodland) - Blog & quote website, built with nuxt / vue.
+- [website](https://github.com/patrickgrey/website) - Personal website.
+- [blog](https://github.com/njfamirm/blog) - Personal website.
+- [pt-nextjs-blog](https://github.com/stepcellwolf/pt-nextjs-blog) - NextJS PredragTasevski Blog build with tailwind-nextjs-starter-blog.
