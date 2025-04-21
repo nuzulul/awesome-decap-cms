@@ -6,10 +6,10 @@ Open Source Git-based CMS for Static Site Generators.
 - [Official](#official)
 - [Discussion](#discussion)
 - [Self Hosted](#self-hosted)
-- [OAuth Clients](#oauth-clients)
+- [OAuth Client](#oauth-client)
 - [Multiuser Authentication](#multiuser-authentication)
 - [Git Gateway](#git-gateway)
-- [Custom Widget](#custom-widgets)
+- [Custom Widget](#custom-widget)
 - [Hack](#hack)
 - [Starter Template](#starter-template)
 - [Project](#project)
@@ -37,7 +37,7 @@ Open Source Git-based CMS for Static Site Generators.
 - [self-hosting-decap-cms](https://github.com/njfamirm/blog/blob/main/site/en/blog/self-hosting-decap-cms.md) - A Step-by-Step Guide to Self-Hosting Decap CMS without Netlify.
 - [my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages](https://github.com/patrickgrey/website/blob/main/website-source/notes/2024-09-21-my-decap-cms-setup-with-11ty-hosted-on-cloudflare-pages.md) - My Decap CMS setup with 11ty hosted on Cloudflare Pages.
 
-## OAuth Clients
+## OAuth Client
 
 - [decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - OAuth client implementation in NodeJS.
 - [decap-cms-google-apps-script](https://github.com/nuzulul/decap-cms-google-apps-script) - OAuth client implementation in Google Apps Script.
@@ -47,6 +47,9 @@ Open Source Git-based CMS for Static Site Generators.
 - [decap-cms-oauth-firebase](https://github.com/BTx123/decap-cms-oauth-firebase) - OAuth client implementation in Firebase V2 Cloud Function.
 - [astro-decap-cms-oauth](https://github.com/dorukgezici/astro-decap-cms-oauth) - OAuth client implementation for Astro project.
 - [decap-proxy](https://github.com/sterlingwes/decap-proxy) - OAuth client implementation in Cloudflare Worker.
+- [decap_cms_auth](https://github.com/jamesMorgan654/decap_cms_auth) - OAuth client implementation in Cloudflare Worker.
+- [netlify-cms-oauth-cloudflare](https://github.com/d3v1an7/netlify-cms-oauth-cloudflare) - OAuth client implementation in Cloudflare Worker.
+- [decap-cms-oauth](https://github.com/saroj-shr/decap-cms-oauth) - OAuth client implementation in Cloudflare Pages.
 - [decap-cms-oauth-provider](https://github.com/openaq/decap-cms-oauth-provider) - OAuth client implementation in Serverless AWS Lambda (Python).
 - [netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages) - OAuth client implementation in Cloudflare Pages.
 - [netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider) - OAuth client implementation in NodeJS.
@@ -105,18 +108,24 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [gatsby-starter-decap-cms](https://github.com/decaporg/gatsby-starter-decap-cms) - A starter template for Gatsby + Decap CMS.
 - [eleventy-netlify-boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) - A template for building a blog with the Eleventy static site generator and Decap CMS.
 - [gatsby-starter-henlo](https://github.com/clean-commit/gatsby-starter-henlo) - The most advanced starter for Gatsby & Decap CMS.
+- [Nuxt3-starter__Decap-cms](https://github.com/Sfolkerts89/Nuxt3-starter__Decap-cms) - Latest Nuxt 3 starter, included Decap Cms.
 - [hugolify-template](https://github.com/Hugolify/hugolify-template) - Framework Hugo with Bootstrap and Decap CMS.
+- [docusaurus-decap-cms](https://github.com/AlanSecundo/docusaurus-decap-cms) - Docusaurus project integrated with open-source decap CMS.
 - [nextjs-blog-tailwind-starter](https://github.com/ositaka/nextjs-blog-tailwind-starter) - Next.js 14 Blog Starter with Tailwind CSS, Contentlayer, & Decap CMS.
 - [11ty-decap-cms-data-list-starter](https://github.com/clottman/11ty-decap-cms-data-list-starter) - A template for a site that uses Decap CMS to build a list of stuff you want to display on the site.
 - [astro-decap-cloudflare-starter](https://github.com/jshuntley/astro-decap-cloudflare-starter) - A starter template and guide to get up and running with Astro and Decap CMS hosted on Cloudflare Pages.
 - [gatsby-starter-foundation](https://github.com/stackrole/gatsby-starter-foundation) - A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS.
 - [Eleventy-Starter-Boilerplate](https://github.com/ixartz/Eleventy-Starter-Boilerplate) - Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog. 
+- [VueDN](https://github.com/NdagiStanley/VueDN) - Vuepress boilerplate integrated with Decap CMS hosted on Netlify.
 
 ## Project
 
 - [linky](https://github.com/paulroub/linky) - A linktree-esque theme, built for static hosting and easy maintenance with Decap CMS.
 - [MailTape](https://github.com/MailTape/MailTape) - Feed your inspiration with music, every Sunday morning. // Built with Astro and edited with DecapCMS.
+- [astro-portfolio](https://github.com/fazleyrabby/astro-portfolio) - Simple Portfolio+Blog with Astro and Decap CMS for content management.
+- [hugo-cinema](https://github.com/Dtime21/hugo-cinema) - Hugo + Decap CMS for Cinema Site.
 - [saga11](https://github.com/mortendk/saga11) - A Static Website builder powered by 11ty and netlifycms, but at the end its just html, css & js.
+- [krauss-cms](https://github.com/chlzslvdr/krauss-cms) - Sample Portfolio Website made with Decap CMS.
 - [cstate](https://github.com/cstate/cstate) - Open source static (serverless) status page with preloaded CMS.
 - [devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS.
 - [storefront](https://github.com/ecomplus/storefront) - Modern and high performant headless eCommerce Storefront editable with CMS.
@@ -129,6 +138,8 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [astro-decap-cms](https://github.com/miseya/astro-decap-cms) - Integration to add Decap CMS’s admin dashboard to any Astro project with faster build process using CDN.
 - [vite-plugin-decap-cms](https://github.com/ghostrider-05/vite-plugin-decap-cms) - Simplify the configuration of Decap cms for Vite projects.
 - [minimal-decap-cms](https://github.com/walmello/minimal-decap-cms) - Using Netlify as a Headless CMS for Webstudio.
+- [protobuf-decap-cms](https://github.com/einride/protobuf-decap-cms) - Manage protobuf resources using Decap CMS.
+- [decap-cms](https://github.com/hugomods/decap-cms) - Hugo Decap CMS Module.
 - [decap-cms](https://github.com/hbstack/decap-cms) - Decap CMS module for HB Framework.
 - [decap-cms-alter](https://github.com/olegfedak/decap-cms-alter) - This package from my forked Decap repository maintains the same functionality but features a different theme.
 - [netlify_cms_config](https://github.com/oscarotero/netlify_cms_config) - Netlify CMS config generator.
