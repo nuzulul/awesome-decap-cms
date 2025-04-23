@@ -49,7 +49,7 @@ Open Source Git-based CMS for Static Site Generators.
 - [decap-proxy](https://github.com/sterlingwes/decap-proxy) - OAuth client implementation in Cloudflare Worker.
 - [decap_cms_auth](https://github.com/jamesMorgan654/decap_cms_auth) - OAuth client implementation in Cloudflare Worker.
 - [netlify-cms-oauth-cloudflare](https://github.com/d3v1an7/netlify-cms-oauth-cloudflare) - OAuth client implementation in Cloudflare Worker.
-- [decap-cms-oauth](https://github.com/saroj-shr/decap-cms-oauth) - OAuth client implementation in Cloudflare Pages.
+- [decap-cms-oauth](https://github.com/saroj-shr/decap-cms-oauth) - OAuth client implementation in Cloudflare Worker.
 - [decap-cms-oauth-provider](https://github.com/openaq/decap-cms-oauth-provider) - OAuth client implementation in Serverless AWS Lambda (Python).
 - [netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages) - OAuth client implementation in Cloudflare Pages.
 - [netlify-cms-github-oauth-provider](https://github.com/vencax/netlify-cms-github-oauth-provider) - OAuth client implementation in NodeJS.
@@ -151,8 +151,8 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [unpadforstrays.or.id](https://github.com/unpadforstrays-dev/unpadforstrays.or.id) - Hosted on Vercel with React-based CMS added for easier content management.
 - [wildgracevideo-website](https://github.com/wildgracevideo/wildgracevideo-website) - Website for Wild Grace Videography.
 - [asdotdev](https://github.com/asdotdev/asdotdev) - This repository contains my static portfolio website.
-- [BTx123.github.io](https://github.com/BTx123/BTx123.github.io) - My personal website.
-- [fana-portfolio](https://github.com/ezzylan/fana-portfolio) - ersonal Portfolio Website made for Farhanah Izzati using the Astrofy template by Manuel Ernesto.
+- [BTx123.github.io](https://github.com/BTx123/BTx123.github.io) - Personal website.
+- [fana-portfolio](https://github.com/ezzylan/fana-portfolio) - Personal Portfolio Website made for Farhanah Izzati using the Astrofy template by Manuel Ernesto.
 - [jazz-musician-website](https://github.com/owengretzinger/jazz-musician-website) - Personal website for a professional jazz musician.
 - [ miriamlasserre](https://github.com/sebousan/miriamlasserre) - Miriam Lasserre’s website.
 - [anasfanani.github.io](https://github.com/anasfanani/anasfanani.github.io) - A source code Hugo blog using hugo-theme-stack & Decap CMS.
