@@ -39,6 +39,7 @@ Open Source Git-based CMS for Static Site Generators.
 
 ## OAuth Client
 
+- [decap-bridge](https://decapbridge.com/) - Third-party service for user management for Decap (*Restrictive license*)
 - [decap-cms-github-backend](https://github.com/njfamirm/decap-cms-github-backend) - OAuth client implementation in NodeJS.
 - [decap-cms-google-apps-script](https://github.com/nuzulul/decap-cms-google-apps-script) - OAuth client implementation in Google Apps Script.
 - [decap_oauth](https://github.com/augustogunsch/decap_oauth) - OAuth client implementation in Rust.
@@ -91,6 +92,7 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [netlify-cms-markdown-columns-widget](https://github.com/Ys-sudo/netlify-cms-markdown-columns-widget) - Extends the netlify-cms-widget-markdown with 3 additional columns modules: 2 columns, 3 columns and 4 columns layouts.
 - [netlify-cms-widget-external-image](https://github.com/mvolfik/netlify-cms-widget-external-image) - Image widget for Netlify CMS: upload image to an external server and store just an identifier.
 - [netlify-cms-widgets](https://github.com/marcomontalbano/netlify-cms-widgets) - A collection of Netlify CMS widgets.
+- [decap-ai-chat-widget](https://github.com/dinosoeren/decap-ai-chat-widget) - A content assistant (AI Chat) widget for Decap CMS.
 
 ## Hack
 
