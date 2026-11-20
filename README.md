@@ -93,6 +93,7 @@ netlify-cms-oauth-provider-python](https://github.com/davidejones/netlify-cms-oa
 - [netlify-cms-widget-external-image](https://github.com/mvolfik/netlify-cms-widget-external-image) - Image widget for Netlify CMS: upload image to an external server and store just an identifier.
 - [netlify-cms-widgets](https://github.com/marcomontalbano/netlify-cms-widgets) - A collection of Netlify CMS widgets.
 - [decap-ai-chat-widget](https://github.com/dinosoeren/decap-ai-chat-widget) - A content assistant (AI Chat) widget for Decap CMS.
+- [decap-cms-widget-openmarkdown](https://github.com/OpenMarkdown-dev/decap-cms-widget-openmarkdown) - A replacement for the Decap CMS Markdown widget that edits the Markdown source directly, with live preview, so saving leaves the lines you did not edit as written.
 
 ## Hack
 
